@@ -2,7 +2,7 @@
 
 I'm a physicist with an MSc in Theoretical Physics, transitioning into Machine Learning and AI.
 
-I enjoy understanding the mathematics behind models, implementing them from scratch, and comparing approaches through experiments. My long-term interests include Computer Vision, Robotics, and AI for Science.
+I enjoy understanding the mathematics behind models, implementing them from scratch, and comparing approaches through experiments. My interests include Computer Vision, Robotics, Physics AI, and AI for Science.
 
 ## 💻 Tech Stack
 
@@ -13,15 +13,15 @@ I enjoy understanding the mathematics behind models, implementing them from scra
 
 ## 🧠 Experience
 
-* Classical ML: feature engineering, supervised and unsupervised learning, model evaluation
-* Neural networks: implementations from scratch and with PyTorch
-* Computer vision: CNNs, data augmentation
-* Sequence modeling: GRUs, Seq2Seq, attention, and a custom Transformer
-* Training and experimentation: hyperparameter tuning, regularization, and generalization analysis
+* Classical ML: feature engineering, supervised and unsupervised learning
+* Computer vision: CNNs and data augmentation
+* Sequence modeling: GRUs, Seq2Seq, attention, and Transformers
+* Generative models: VAEs, GANs, conditional generation, and DDPM with U-Net
+* Experimentation: hyperparameter tuning, model evaluation, and generalization analysis
 
 ## 🔭 Current Focus
 
-Deepening my understanding of neural networks and building practical ML projects, with an interest in scientific and physical applications.
+Building ML projects and exploring how neural networks can model physical systems and support scientific research.
 
 ## 📫 Contact
 
